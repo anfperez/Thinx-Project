@@ -1,0 +1,24 @@
+THINX FRONT END CODE CHALLENGE INSTRUCTIONS
+
+The top, middle section should appear/work the same as ssense.com products when you scroll up and down the page on desktop. The zoom feature should also work and trigger whatever image you click on.
+https://www.ssense.com/en-us/women/product/31-phillip-lim/beige-utility-belted-jacket/2513528
+
+All text is static, except two things on the top right section:
+Black/beige should be clickable and the checkmark should appear/disappear like real world use. On page load, Black should be checked.
+Quantity +/-  should work and size dropdown should work as well with sizes XS-XXL
+
+For mobile responsiveness, just have everything stack on top of each other in this order:
+Top product images in a carousel (like ssense), product description, product selector (color, size, etc), bottom item images stacked below that. I prefer you use bootstrap 3, but any front end framework (or making your own) works too.
+
+Feel free to use any other frameworks or tools you want.
+
+Include git repository so we can see progress on the task.
+
+
+If you have ANY questions, do not hesitate to ask!!
+
+
+You have one week to complete. Please e-mail to brendan@shethinx.com and CC people@shethinx.com when complete.
+
+
+

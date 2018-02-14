@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'GraphikMedium';
+	src: url('Graphik-Medium.otf');
+}
+
+body {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: #f8f8f9;
+    font-family: GraphikMedium;
+}
+
+.well {
+    background-color: #f8f8f9;
+}
+
+.sidebar-nav-fixed {
+    width:20%;
+}
+
+.affix {
+	padding-top: 100px;
+}
