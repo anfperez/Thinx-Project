@@ -21,3 +21,12 @@ body {
 .affix {
 	padding-top: 100px;
 }
+
+.black {
+	background-color: black;
+	color: white;
+}
+
+.beige {
+	background-color: #f1d8a8;
+}
